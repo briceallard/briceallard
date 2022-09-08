@@ -6,7 +6,7 @@ Vist my **[Website](https://www.briceallard.com)**
 
 [![Linkedin: briceallard](https://img.shields.io/badge/-briceallard-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/briceallard/)](https://www.linkedin.com/in/briceallard/)
 [![GitHub briceallard](https://img.shields.io/github/followers/briceallard?label=follow&style=social)](https://github.com/briceallard)
-![Twitter Follow](https://img.shields.io/twitter/follow/bricewa?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/briceallard?style=social)
 
 ---
 
